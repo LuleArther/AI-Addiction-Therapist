@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "840648616109",
+    "project_id": "ai-therapist-app-c5464",
+    "storage_bucket": "ai-therapist-app-c5464.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840648616109:android:ee6215a27a9f555a45be24",
+        "android_client_info": {
+          "package_name": "com.recovery.aitherapist.ai_therapist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBh48C9BIHGFa8iFHFjqQSvUV0bT6bhT84"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
